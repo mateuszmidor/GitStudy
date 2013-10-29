@@ -1,8 +1,0 @@
-if (favChar == "Kot z shire") {
-	print "you have chosen my favourite character too";
-} else {
-	print "Kot z shire is better";
-}
-
-// code for the new great feature goes here!
-Hello this is my new feature code blah bladh

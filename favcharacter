@@ -3,3 +3,6 @@ if (favChar == "Kot z shire") {
 } else {
 	print "Kot z shire is better";
 }
+
+// code for the new great feature goes here!
+Hello this is my new feature code blah bladh
